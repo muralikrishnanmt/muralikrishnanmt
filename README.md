@@ -9,7 +9,7 @@ Currently Working as Mobile Application Developer at National Informatics Centre
 * 🌍  I'm based in Kerala, India
 * 🖥️  See my portfolio at [http://www.muralikrishnan.ga](http://www.muralikrishnan.ga)
 * ✉️  You can contact me at [mtmuralikrishnan@gmail.com](mailto:mtmuralikrishnan@gmail.com)
-* 🧠  I'm learning NodeJS, ExpressJS, MongoDB
+* 🧠  I'm learning Flutter and Dart
 
 ### Skills
 
