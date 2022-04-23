@@ -7,7 +7,7 @@ Flutter Developer | Android | IOS
 Currently Working as Mobile Application Developer at National Informatics Centre.
 
 * 🌍  I'm based in Kerala, India
-* 🖥️  See my portfolio at [https://muralikrishnanmt.github.io/](https://muralikrishnanmt.github.io/)
+* 🖥️  See my portfolio at [https://muralikrishnanmt.github.io](https://muralikrishnanmt.github.io)
 * ✉️  You can contact me at [mtmuralikrishnan@gmail.com](mailto:mtmuralikrishnan@gmail.com)
 * 🧠  I'm learning Flutter and Dart
 
