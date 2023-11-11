@@ -4,7 +4,7 @@ Hi 👋 My name is Murali Krishnan M T
 Flutter Developer | Android | IOS
 ---------------------------------
 
-Currently Working as Software Developer at Federal Soft Systems Inc.
+Currently Working as Software Developer at Tech Mahindra.
 
 * 🌍  I'm based in Kerala, India
 * 🖥️  See my portfolio at [http://muralikrishnanmt.com](http://muralikrishnanmt.com)
