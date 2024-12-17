@@ -6,7 +6,7 @@ Flutter Developer | Android | IOS
 
 Currently Working as Software Engineer at Tech Mahindra.
 
-* 🌍  I'm based in Kerala, India
+* 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [http://muralikrishnanmt.com](http://muralikrishnanmt.com)
 * ✉️  You can contact me at [mtmuralikrishnan@gmail.com](mailto:mtmuralikrishnan@gmail.com)
 * 🧠  I'm learning Flutter and Dart
